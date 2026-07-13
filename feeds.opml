@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>Hem och vardag: kuraterade resurser</title></head>
+<body>
+  <outline text="Hem, inredning och renovering">
+    <outline type="rss" text="Bäst på badrum" xmlUrl="https://www.badrum.nu/feed/" htmlUrl="https://www.badrum.nu/"/>
+    <outline type="rss" text="Bättre Boende" xmlUrl="https://www.battreboende.se/feed/" htmlUrl="https://www.battreboende.se/"/>
+    <outline type="rss" text="Fläkt.nu" xmlUrl="https://www.fläkt.nu/feed/" htmlUrl="https://www.fläkt.nu/"/>
+    <outline type="rss" text="Kungsgranen.se" xmlUrl="https://www.kungsgranen.se/feed/" htmlUrl="https://www.kungsgranen.se/"/>
+    <outline type="rss" text="Larmbutiken.se" xmlUrl="https://www.larmbutiken.se/feed/" htmlUrl="https://www.larmbutiken.se/"/>
+    <outline type="rss" text="Skrivbord.nu" xmlUrl="https://www.skrivbord.nu/feed/" htmlUrl="https://www.skrivbord.nu/"/>
+    <outline type="rss" text="Skyddspartner" xmlUrl="https://www.skyddspartner.se/feed/" htmlUrl="https://www.skyddspartner.se/"/>
+    <outline type="rss" text="Smuts.se" xmlUrl="https://www.smuts.se/feed/" htmlUrl="https://www.smuts.se/"/>
+    <outline type="rss" text="Stol.nu" xmlUrl="https://www.stol.nu/feed/" htmlUrl="https://www.stol.nu/"/>
+    <outline type="rss" text="Tapetsera" xmlUrl="https://www.tapetsera.se/feed/" htmlUrl="https://www.tapetsera.se/"/>
+    <outline type="rss" text="Utomhuspool.se" xmlUrl="https://www.utomhuspool.se/feed/" htmlUrl="https://www.utomhuspool.se/"/>
+  </outline>
+  <outline text="Hemservice och hantverk">
+    <outline type="rss" text="Akutservice" xmlUrl="https://www.akutservice.se/feed/" htmlUrl="https://www.akutservice.se/"/>
+    <outline type="rss" text="Facility Management" xmlUrl="https://www.facilitymanagement.se/feed/" htmlUrl="https://www.facilitymanagement.se/"/>
+    <outline type="rss" text="Jourverkstad.se" xmlUrl="https://www.jourverkstad.se/feed/" htmlUrl="https://www.jourverkstad.se/"/>
+    <outline type="rss" text="Lås" xmlUrl="https://www.lås.nu/feed/" htmlUrl="https://www.lås.nu/"/>
+    <outline type="rss" text="Sanerare.se" xmlUrl="https://www.sanerare.se/feed/" htmlUrl="https://www.sanerare.se/"/>
+    <outline type="rss" text="Texty.se" xmlUrl="https://www.texty.se/feed/" htmlUrl="https://www.texty.se/"/>
+  </outline>
+  <outline text="Mat och dryck">
+    <outline type="rss" text="Drops.se" xmlUrl="https://www.drops.se/feed/" htmlUrl="https://www.drops.se/"/>
+    <outline type="rss" text="FoodHack" xmlUrl="https://www.foodhack.se/feed/" htmlUrl="https://www.foodhack.se/"/>
+    <outline type="rss" text="Frukt.nu" xmlUrl="https://www.frukt.nu/feed/" htmlUrl="https://www.frukt.nu/"/>
+    <outline type="rss" text="Sallader.se" xmlUrl="https://www.sallader.se/feed/" htmlUrl="https://www.sallader.se/"/>
+    <outline type="rss" text="Snittar" xmlUrl="https://www.snittar.se/feed/" htmlUrl="https://www.snittar.se/"/>
+    <outline type="rss" text="Spagetti.se" xmlUrl="https://www.spagetti.se/feed/" htmlUrl="https://www.spagetti.se/"/>
+    <outline type="rss" text="Veganlunch" xmlUrl="https://www.veganlunch.se/feed/" htmlUrl="https://www.veganlunch.se/"/>
+    <outline type="rss" text="Veganmiddag" xmlUrl="https://www.veganmiddag.se/feed/" htmlUrl="https://www.veganmiddag.se/"/>
+  </outline>
+  <outline text="Husdjur">
+    <outline type="rss" text="Hundresor" xmlUrl="https://www.hundresor.se/feed/" htmlUrl="https://www.hundresor.se/"/>
+    <outline type="rss" text="Kattgodis.se" xmlUrl="https://www.kattgodis.se/feed/" htmlUrl="https://www.kattgodis.se/"/>
+    <outline type="rss" text="Klicker.se" xmlUrl="https://www.klicker.se/feed/" htmlUrl="https://www.klicker.se/"/>
+    <outline type="rss" text="Shetland Sheepdog" xmlUrl="https://www.shetlandsheepdog.se/feed/" htmlUrl="https://www.shetlandsheepdog.se/"/>
+    <outline type="rss" text="Tax" xmlUrl="https://www.tax.nu/feed/" htmlUrl="https://www.tax.nu/"/>
+    <outline type="rss" text="Trick.se" xmlUrl="https://www.trick.se/feed/" htmlUrl="https://www.trick.se/"/>
+    <outline type="rss" text="Valp.nu" xmlUrl="https://www.valp.nu/feed/" htmlUrl="https://www.valp.nu/"/>
+    <outline type="rss" text="Valpkurser" xmlUrl="https://www.valpkurser.se/feed/" htmlUrl="https://www.valpkurser.se/"/>
+  </outline>
+</body>
+</opml>
