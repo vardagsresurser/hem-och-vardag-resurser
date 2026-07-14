@@ -1,6 +1,6 @@
 # Hem och vardag: kuraterade resurser
 
-En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-13. Bidrag välkomna via pull request.
+En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-14. Bidrag välkomna via pull request.
 
 
 ## Hem, inredning och renovering
