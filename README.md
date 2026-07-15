@@ -1,6 +1,6 @@
 # Hem och vardag: kuraterade resurser
 
-En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-14. Bidrag välkomna via pull request.
+En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-15. Bidrag välkomna via pull request.
 
 
 ## Hem, inredning och renovering
@@ -19,13 +19,15 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [battreboende.se](https://www.battreboende.se/) - Praktiska guider för ett bättre boende med komfort, ekonomi och hälsa
 - [skyddspartner.se](https://www.skyddspartner.se/) - Hitta skalskydd, larm och säkerhetslösningar för hem och företag
 - [kungsgranen.se](https://www.kungsgranen.se/) - Beställ kungsgranar med hemleverans och återvinning för en enklare jul
+- [stol.nu](https://www.stol.nu/) - Köpguide och inspiration för stolar med fokus på design och ergonomi
 - [utomhuspool.se](https://www.utomhuspool.se/) - Komplett guide för att välja, installera och underhålla din utomhuspool
 - [larmbutiken.se](https://www.larmbutiken.se/) - Jämför och köp larmprodukter för ökad säkerhet i ditt hem
 - [smuts.se](https://www.smuts.se/) - Husmorstips och guider för effektiv rengöring och fläckborttagning i hemmet
 - [fläkt.nu](https://www.fläkt.nu/) - Köpguide och tester för alla typer av fläktar till ditt hem
-- [stol.nu](https://www.stol.nu/) - Köpguide och inspiration för stolar med fokus på design och ergonomi
 - [tapetsera.se](https://www.tapetsera.se/) - Komplett DIY-guide för tapetsering med steg-för-steg-instruktioner och inspiration
 - [skrivbord.nu](https://www.skrivbord.nu/) - Guide för att välja rätt skrivbord och skapa en ergonomisk arbetsplats
+
+*Följ ämnet: [daglig digest](https://vardagsresurser.github.io/planet-hem/) · [Atom-feed](https://vardagsresurser.github.io/planet-hem/feed.xml)*
 
 
 ## Hemservice och hantverk
@@ -46,6 +48,8 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [lås.nu](https://www.lås.nu/) - Kunskapsportal och köpguide för lås och säkerhetslösningar till hem och företag
 - [jourverkstad.se](https://www.jourverkstad.se/) - Hitta jourverkstäder och akuttjänster för snabb hjälp med ditt problem
 - [texty.se](https://www.texty.se/) - Tjänster för korrekturläsning, copywriting och professionell textgranskning
+
+*Följ ämnet: [daglig digest](https://vardagsresurser.github.io/planet-hemservice/) · [Atom-feed](https://vardagsresurser.github.io/planet-hemservice/feed.xml)*
 
 
 ## Mat och dryck
@@ -68,6 +72,8 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [sallader.se](https://www.sallader.se/) - Receptsajt för veganska sallader och växtbaserad mat med inspiration och tips
 - [foodhack.se](https://www.foodhack.se/) - Smarta tips och genvägar för matlagning och köket
 
+*Följ ämnet: [daglig digest](https://vardagsresurser.github.io/planet-mat/) · [Atom-feed](https://vardagsresurser.github.io/planet-mat/feed.xml)*
+
 
 ## Husdjur
 
@@ -89,6 +95,8 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [valp.nu](https://www.valp.nu/) - Information om valpar, uppfödare och tips för nya valpägare
 - [tax.nu](https://www.tax.nu/) - Allt om taxar: rasstandard, skötsel, träning, hälsa och uppfödarlistor
 - [klicker.se](https://www.klicker.se/) - Guider och tips för positiv hundträning med klicker och belöningsbaserade metoder
+
+*Följ ämnet: [daglig digest](https://vardagsresurser.github.io/planet-husdjur/) · [Atom-feed](https://vardagsresurser.github.io/planet-husdjur/feed.xml)*
 
 
 ## Följ med RSS
